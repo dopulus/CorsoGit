@@ -46,7 +46,7 @@ def main():
         else:
             print(f"Hai perso! Il numero era {n}")
 
-        rigioca = input("Vuoi rigiocare? (s/n): ").lower()
+        rigioca = input("Vuoi giocare di nuovo? (s/n): ").lower()
 
     print("Grazie per aver giocato!")
 
